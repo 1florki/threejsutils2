@@ -1,6 +1,11 @@
 ## point octree
 
+<https://1florki.github.io/threejsutils2/octree.js>
+
 ```javascript
+// IMPORT 
+import { Octree } from 'https://1florki.github.io/threejsutils2/octree.js'
+
 // ---
 // CREATE
 
