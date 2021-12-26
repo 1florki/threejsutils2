@@ -1,4 +1,4 @@
-## simple javascript point octree with three.js
+## point octree
 
 ```javascript
 // ---
